@@ -1,0 +1,14 @@
+Introduction,
+
+ This program mainly focused on calculating GPA values of students. It is very 
+easy to work with this program. I mainly focused on Eleven aspects such as, Users should be able to 
+insert their general information, (Department, Name, Index Number), Add New course For List, To 
+Register a new course That is mean, Registered Students should be able to add new courses to their list, 
+Insert Grade Point Values, That is mean Registered users should be able to add GPV value for registered 
+courses, Generate Student Report(It includes All the data of the student Name, Department, Index 
+Number, and courses details that student registered Course Id, Course Name, Registered Date, GPV, 
+Grade, and Current Grade Point Average.) In addition, should be able to update inserted data such as 
+Student General Data, Registered courses, Inserted GPV, and Delete the student profile, Assuming that, 
+every student has a unique ID. According to the requirements of this system, I use C Programming 
+Language. Since It has Structures, Dynamic Memory allocation, File Handling, array, switch 
+statements, loops and etc.
